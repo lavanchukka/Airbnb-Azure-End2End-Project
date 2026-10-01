@@ -10,4 +10,3 @@ In this project we will perform the following tasks:
 6) PySpark Data Transformation with Azure Databricks
 7) Data Warehousing with Synapse Analytics-Database, Schema, Views, External tables
 8) Establishing connection between Synapse and Power BI
-9) Deleting the project
